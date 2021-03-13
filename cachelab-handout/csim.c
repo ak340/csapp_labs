@@ -23,7 +23,6 @@ typedef struct counterStruct {
 
 Counter count = {0, 0, 0};
 
-
 int main(int argc, char **argv)
 {
     int opt;
